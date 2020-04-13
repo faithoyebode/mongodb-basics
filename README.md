@@ -1,4 +1,4 @@
-![exe files](exe-files.JPG)
-![database connection](database-connection.JPG)
-![interns collection](collection-created.JPG)
+![exe files](images/exe-files.JPG)
+![database connection](images/database-connection.JPG)
+![interns collection](images/collection-created.JPG)
 
